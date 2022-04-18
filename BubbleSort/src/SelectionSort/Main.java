@@ -16,13 +16,10 @@ public class Main {
 					
 				}
 			
-			
 		}
 		
 		swap (intArray, largest, lastUnsortedIndex);
-		
-		
-		
+			
 	}
 		for (int i = 0; i < intArray.length; i++) {
 			System.out.println(intArray[i]);
@@ -37,11 +34,7 @@ public class Main {
 		int temp = array[i];
 		array[i] = array[j];
 		array[j] = temp;
-		
-		
+			
 	}
-	
-	
-	
-	
+		
 }
